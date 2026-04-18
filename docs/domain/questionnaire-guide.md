@@ -36,3 +36,14 @@ G. Prior addresses in the last 3 years prior to filing
 
 **Edge Cases**
 -Only list spouse information if married or make that required if married
+
+2. Prior Bankrupcy
+
+**Required Fields**
+All prior bankruptcies in the last 8 years based on filing date
+
+**Purpose** To gather necessary information for the voluntary bankruptcy petition and also notify lawyer of prior filings which may be a red flag to filing a new case due to time restriction requirements between filings.  
+
+**What clients typically get wrong** adding in bankruptcy cases older than 8 years or not listing out all information required.  
+
+**Edge cases** Not listing non filing spouses prior bankruptcy cases which may limit dischargeablity of community debts in a future case.  
