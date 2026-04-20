@@ -64,6 +64,12 @@ Residential lease in [Section1NameResidence.tsx:32-41](../../client/src/componen
 ## Richard Needs to Answer
 
 - [ ] **(3) Housing/expenses/household scope** — Three separate sections, or one combined "Household & Housing"? Should the expenses section follow Schedule J line items?
+- [ ] Yes Expenses shoudl follow Schedule J line items and have room for additional categories to be added. Once combined section shoudl be ok.  
+- [ ] 
 - [ ] **(6) 90-day question scope** — Is the "incurred debts in 90 days prior to filing" question credit-card-specific, or does it belong on all unsecured debts? (Presumption-of-fraud lookback is broader than CCs.)
+- [ ] This relates to CONSUMER DEBT.  So this includes vehicles and mortgage but would not include business, IRS, child support etc.  Consumer debt are expenses that benefit the household.  It's ok to pay secured debti witin 90 days of filing but we don't like to see big credit card payments for example as that can unfairly beneift one creditor over another and trustee can claw back funds so it shoudl set off a red flag and advise to wait to file.
+- [ ] 
 - [ ] **(7) Open claims placement** — Add to Section 20 (Accidents) or consolidate with Section 8 (Lawsuits)?
-- [ ] **(8) Former marriages multiplicity** — Should this become a repeating array to capture multiple prior marriages, or stay single-spouse?
+- [ ] Keep seperate because an accident doesn't mean there is a lawsuit. We want to know if they have any personal injury claims so we can list this as an asset and exempt it.
+- [ ] 
+- [ ] **(8) Former marriages multiplicity** — Should this become a repeating array to capture multiple prior marriages, or stay single-spouse? We do need to know marriages for both spaces within a community property state in the last 8 years, so whatever gathers that information.  
